@@ -89,7 +89,7 @@ Scikit-learn 0.20 was the last version to support Python 2.7 and Python 3.4. Sci
 
 # Feature extraction #
 
-We recommend the users to use jupyter notebook provided in  for feature extraction.
+We recommend the users to use jupyter notebook provided in " https://github.com/MuthusaravananS/P21-ACTIVATED-KINASE-INHIBITORS-SCREENING/tree/main/Dataset%20preparation%20and%20exploratory%20analysis/Descriptors%20extarction " for feature extraction.
 
 
-Python scripts for execution were provided in Main branch of K-pred. 
+Python scripts for execution were provided in Main branch in Dataset preparation and exploratory analysis folder. 
