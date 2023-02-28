@@ -1,10 +1,10 @@
-# P21-ACTIVATED-KINASE-INHIBITORS-SCREENING and IC50 Prediction 
+# P21-ACTIVATED-KINASE 1-INHIBITORS-SCREENING and IC50 Prediction 
 
 #  supplementary material for article titled " **************** " #
 
-Ml framework for predicting P21-ACTIVATED-KINASE-INHIBITORS and IC50 Prediction.  
+Ml framework for predicting P21-ACTIVATED-KINASE 1-INHIBITORS and IC50 Prediction.  
 
-#  Ml framework for predicting P21-ACTIVATED-KINASE-INHIBITORS and IC50 Prediction #
+#  Ml framework for predicting P21-ACTIVATED-KINASE 1-INHIBITORS and IC50 Prediction #
 
 
 # Python installation #
